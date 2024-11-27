@@ -3,7 +3,7 @@
 <br>
 <h2>Esse foi um projeto que eu aprendi no DevClub</h2>
 
-<h2>Tecnologias utilizadas</h2>
+<h2>Tecnologias utilizadas:</h2>
 <br>
 
   <p>-HTML</p>
